@@ -1,0 +1,31 @@
+# macOS System
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Swift & SPM
+.build/
+AURA/.build/
+Packages/
+*.xcodeproj/
+*.xcworkspace/
+
+# Application Bundles
+*.app/
+AURA/AURA.app/
+AURA.app/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
